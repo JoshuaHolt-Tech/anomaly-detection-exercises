@@ -48,7 +48,7 @@ Modeling:
 -encode_and_dummies(df, target_column = None ,random_seed=1969)
 -train_val_test(train, val, test, target_col)
 -find_regression_baseline(y_train)
--scale_cont_columns(train, val, test, , cont_columns, scaler_model = 1)
+-scale_cont_columns(train, val, test, cont_columns, scaler_model = 1)
 
 ############## -- ACQUIRE FUNCTIONS -- ##############"""
 
